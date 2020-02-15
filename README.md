@@ -34,36 +34,42 @@ La sintaxis para los comentarios es la siguiente:
 ### Listas desordenadas
 Para crear listas desordenadas se pueden utilizar los siguientes simbolos: *,-,+
 ~~~
-* manzana
-- guayaba
-+ naranja
+* Manzana
+- Guayaba
++ Naranja
 ~~~
 
 El resultado es el siguiente:
 
-* manzana
-- guayaba
-+ naranja
+* Manzana
+- Guayaba
++ Naranja
 
 ### Listas ordenadas
 Para crear listas ordenadas utilizamos los números para cada item: 1,2,3..
 ~~~
-1. manzana
-2. guayaba
-3. naranja
+1. Manzana
+2. Guayaba
+3. Naranja
 ~~~
 
 El resultado es el siguiente:
 
-1. manzana
-2. guayaba
-3. naranja
+1. Manzana
+2. Guayaba
+3. Naranja
 
 ---
 ### Listas de tareas
+Las listas de tareas o check box 
+~~~
+* [x] Introduccion 
+* [ ] Marco teórico
+* [ ] Justificación
 ~~~
 
-~~~
+El resultado es el siguiente:
+
 * [x] Introduccion 
 * [ ] Marco teórico
 * [ ] Justificación
