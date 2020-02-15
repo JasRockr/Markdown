@@ -12,7 +12,7 @@ Los niveles de los titulos van de 1 a 6 y se agrega un caracter (#) por cada niv
 ###### Titulo 6
 ---
 
-Texto en Cursiva y Negrita | entre 3 asteriscos | Este es un ** _texto en negrita y cursiva_ **
+Texto en Cursiva y Negrita | entre 3 asteriscos | Este es un **_texto en negrita y cursiva_**
 
 ---
 <!--Listas Desordenadas <u>-->
