@@ -11,9 +11,22 @@ Los niveles de los titulos van de 1 a 6 y se agrega un caracter (#) por cada niv
 ##### Titulo 5
 ###### Titulo 6
 ---
+# Comentarios
+La sintaxis para los comentarios es la siguiente 
+~~~
+<!-- Comentario -->
+~~~
+
 # Listas
 
-<!--Listas Desordenadas <u>-->
+
+### Listas desordenadas
+Se pueden utilizar los siguientes simbolos: *,-,+
+~~~
+* manzana
+- guayaba
++ naranja
+~~~
 ### Listas desordenadas
 Se pueden utilizar los siguientes simbolos: *,-,+
 ~~~
@@ -36,9 +49,7 @@ Luis|3.5|1
 Ana|4.0|1
 Pedro|2.2|0
 
-~~~
-El resultado de ejecución es: 
-~~~
+
 [Link] (https://www.tdea.edu.co/)
 
 ***
