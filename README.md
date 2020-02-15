@@ -1,9 +1,19 @@
 ---
 # Titulos / Encabezados 
-~~~
+
 Para marcar titulos se usa el caracter # (numeral) seguido de un espacio y el texto que define el titulo.
-Los niveles de los titulos van de 1 a 6 y se agrega un caracter (#) por cada nivel, siendo 1 el titulo más grande (# Titulo 1) y 6 el más pequeño (###### Titulo 6).
+Los niveles de los titulos van de 1 a 6 y se agrega un caracter (#) por cada nivel, siendo 1 el titulo más 
+grande (# Titulo 1) y 6 el más pequeño (###### Titulo 6).
 ~~~
+# Titulo 1
+## Titulo 2
+### Titulo 3
+.
+.
+.
+~~~
+El resultado es el siguiente:
+
 # Titulo 1
 ## Titulo 2
 ### Titulo 3
