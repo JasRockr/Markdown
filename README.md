@@ -12,7 +12,7 @@ Los niveles de los titulos van de 1 a 6 y se agrega un caracter (#) por cada niv
 ###### Titulo 6
 ---
 # Comentarios
-La sintaxis para los comentarios es la siguiente 
+La sintaxis para los comentarios es la siguiente: 
 ~~~
 <!-- Comentario -->
 ~~~
@@ -28,18 +28,21 @@ Se pueden utilizar los siguientes simbolos: *,-,+
 + naranja
 ~~~
 ### Listas desordenadas
+~~~
 Se pueden utilizar los siguientes simbolos: *,-,+
 ~~~
 * manzana
 - guayaba
 + naranja
-~~~
+
 ### Listas de tareas
+~~~
+
 ~~~
 * [x] Introduccion 
 * [ ] Marco teórico
 * [ ] Justificación
-~~~
+
 ### Tablas
 
 Alumnno|Nota|Aprobado
