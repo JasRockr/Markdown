@@ -44,5 +44,5 @@ El resultado de ejecución es:
 ***
 ---
 Carga de imagen
-![Image](images/motherboard.jpg)
+![Image](Images/motherboard.jpg)
 
