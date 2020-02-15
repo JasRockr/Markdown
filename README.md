@@ -10,7 +10,7 @@ grande (# Titulo 1) y 6 el más pequeño (###### Titulo 6).
 ### Titulo 3
 .
 .
-.
+###### Titulo 6
 ~~~
 El resultado es el siguiente:
 
@@ -20,31 +20,47 @@ El resultado es el siguiente:
 #### Titulo 4
 ##### Titulo 5
 ###### Titulo 6
+
 ---
 # Comentarios
+
 La sintaxis para los comentarios es la siguiente: 
 ~~~
 <!-- Comentario -->
 ~~~
 
+---
 # Listas
 
-
 ### Listas desordenadas
-Se pueden utilizar los siguientes simbolos: *,-,+
+Para crear listas desordenadas se pueden utilizar los siguientes simbolos: *,-,+
 ~~~
 * manzana
 - guayaba
 + naranja
 ~~~
-### Listas desordenadas
-~~~
-Se pueden utilizar los siguientes simbolos: *,-,+
-~~~
+
+El resultado es el siguiente:
+
 * manzana
 - guayaba
 + naranja
 
+### Listas ordenadas
+Para crear listas ordenadas utilizamos los números para cada item: 1,2,3..
+~~~
+1 manzana
+2 guayaba
+3 naranja
+~~~
+
+El resultado es el siguiente:
+
+1 manzana
+2 guayaba
+3 naranja
+
+---
 ### Listas de tareas
 ~~~
 
