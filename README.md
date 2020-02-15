@@ -48,16 +48,16 @@ El resultado es el siguiente:
 ### Listas ordenadas
 Para crear listas ordenadas utilizamos los números para cada item: 1,2,3..
 ~~~
-1 manzana
-2 guayaba
-3 naranja
+1. manzana
+2. guayaba
+3. naranja
 ~~~
 
 El resultado es el siguiente:
 
-1 manzana
-2 guayaba
-3 naranja
+1. manzana
+2. guayaba
+3. naranja
 
 ---
 ### Listas de tareas
