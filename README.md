@@ -1,5 +1,5 @@
 ---
-### Titulos 
+### Titulos / Encabezados 
 ~~~
 Para marcar titulos se usa el caracter # (numeral) seguido de un espacio y el texto que define el titulo.
 Los niveles de los titulos van de 1 a 6 y se agrega un caracter (#) por cada nivel, siendo 1 el titulo más grande (# Titulo 1) y 6 el más pequeño (###### Titulo 6).
@@ -10,10 +10,6 @@ Los niveles de los titulos van de 1 a 6 y se agrega un caracter (#) por cada niv
 #### Titulo 4
 ##### Titulo 5
 ###### Titulo 6
----
-
-Texto en Cursiva y Negrita | entre 3 asteriscos | Este es un **_texto en negrita y cursiva_**
-
 ---
 <!--Listas Desordenadas <u>-->
 ### Listas desordenadas
