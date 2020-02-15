@@ -43,6 +43,7 @@ El resultado de ejecución es:
 
 ***
 ---
-Carga de imagen
+Carga de la imagen
+
 ![Image](Images/motherboard.jpg)
 
